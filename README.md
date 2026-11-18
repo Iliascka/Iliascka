@@ -30,7 +30,7 @@ Git • GitHub • VS Code • Copilot • Postman • Google Cloud • Figma �
 
 ### 📰 NewsExplorer
 
-A full-stack news application that allows users to search for articles, create accounts, and save their favorite news stories.
+A full-stack news application that allows users to search for articles, create accounts, and save their favorite news articles.
 
 **Technologies:** React · JavaScript · Node.js · Express · MongoDB · JWT · Celebrate / Joi · Winston · Google Cloud 
 
