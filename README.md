@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Full-Stack Web Developer with a background in UI/UX Design, currently studying Informatics and Software Engineering.
+I'm a Full-Stack Developer with a background in UI/UX Design, currently studying Informatics and Software Engineering.
 
 I enjoy building modern, responsive web applications and learning how frontend and backend technologies work together.
 
